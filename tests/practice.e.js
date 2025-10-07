@@ -3,7 +3,6 @@
 // }
 // console.log(add(10,20));
 
-let a=20, b=30
-
-[a,b]=[b,a]
-console.log(a,b);
+let a = 3, b = 7;
+[a, b] = [b, a];
+console.log(a, b);
