@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
 import {amezon1page}  from './pageobject/amezon1page';
-import product from '../testdata/data2.json';
+import product from '../testdata/data1.json';
 
 test('Select dress and get details', async ({ page }) => {
     const amazon = new amezon1page(page);
