@@ -103,7 +103,7 @@ test.skip('Login Page Validation', async ({ page }) => {
 
 
 
-test.skip('mouse',async({page})=>{
+test.only('mouse',async({page})=>{
   await page.goto('https://demoapps.qspiders.com/ui/clickHold?sublist=0')
    await page.locator('#circle').hover()
    await page.mouse.down()
@@ -125,7 +125,7 @@ test.skip('mousee',async({page})=>{
 
 })
 
-test.skip('moss',async({page})=>{
+test.only('moss',async({page})=>{
   await page.goto('https://www.flipkart.com/')
    const flip=await page.getByRole('textbox',{name:'Search for Products, Brands and More'})
    await flip.fill('perfume')
@@ -164,7 +164,7 @@ await page.mouse.wheel(0,500)
 
   })
 
-  test.only('drag',async({page})=>{
+  test.skip('drag',async({page})=>{
     await page.goto('https://demoapps.qspiders.com/ui/dragDrop/dragToCorrect?sublist=2')
     await page.getByText('Mobile Charger').hover()
     await page.mouse.down()
