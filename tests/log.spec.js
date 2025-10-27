@@ -1,5 +1,5 @@
 import {test} from '@playwright/test'
-import {Lpage} from '../tests/l.page'
+import {Lpage} from './l.page'
 import data from '../testdata/l.json'
 
 
