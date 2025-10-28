@@ -1,0 +1,19 @@
+
+[{"year": "four",
+  "skil":"automationtesting",
+  "usname": "Shruti",
+  "eml": "shruti@gmail.com",
+  "mblnum": "9876543210",
+  "gender": "Female",
+  "filepath":"dfile.txt",
+  "tool": ["Webdriverio", "Jenkins", "Postman"]
+},
+{"year": "three",
+  "skil":"automationtesting",
+  "usname": "Shruti",
+  "eml": "reas@gmail.com",
+  "mblnum": "98765497610",
+  "gender": "Female",
+  "filepath":"dfile.txt",
+  "tool": ["Jenkins", "Postman"]
+}]
