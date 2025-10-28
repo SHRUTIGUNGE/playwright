@@ -1,0 +1,18 @@
+[
+  {
+    "username": "ShrutiTest1",
+    "email": "shruti1@example.com",
+    "tel": "9876543210",
+    "password": "Pass@123",
+    "gender": "female",
+    "country": "India"
+  },
+  {
+    "username": "ShrutiTest2",
+    "email": "shruti2@example.com",
+    "tel": "9123456780",
+    "password": "Test@456",
+    "gender": "male",
+    "country": "UK"
+  }
+]

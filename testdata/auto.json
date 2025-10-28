@@ -1,0 +1,10 @@
+[
+    {
+    "us":"standard_user",
+    "pwd":"secret_sauce"
+}, {
+    "us":"shruti",
+    "pwd":12345
+}
+
+]

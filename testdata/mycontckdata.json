@@ -1,0 +1,21 @@
+[
+    {
+        "Name":"shru",
+        "email":"shruti@gmail.com",
+        "username":"shruti",
+        "pwd":"shru@123",
+        "repass":"shru@123"
+
+
+    },
+
+    {
+        "Name":"priti",
+        "email":"priti@gmail.com",
+        "username":"prii",
+        "pwd":"pri@123",
+        "repass":"pri@123"
+
+
+    }
+]
