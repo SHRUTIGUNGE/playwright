@@ -1,0 +1,18 @@
+[{"firstname": "shru",
+  "lastname":"gunge",
+  "jobtitle": "tester",
+  "edu": "High Scool",
+  "sex": "Male",
+  "exp": "1",
+  "date":"11/02/2025"
+  
+},
+{"firstname": "three",
+  "lastname":"belur",
+  "jobtitle": "enginner",
+  "edu": "Grad School",
+  "sex": "Female",
+  "exp": "2",
+  "date":"02/02/2025"
+  
+}]
